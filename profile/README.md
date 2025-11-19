@@ -4,7 +4,6 @@ FULL-MAP is a revolutionary project aimed at accelerating the research, design, 
 
 - https://full-map.eu
 - https://www.linkedin.com/company/full-map/
-- https://vimeo.com/showcase/addmorepower-video-showcase
 
 ## Disclaimer
 FULL-MAP has received funding from the European Union’s research and innovation programme Horizon Europe under the grant agreement No. 101192848, and the involvement in the Battery2030+ Initiative (Battery 2030 CSA3, GA No. 101104022).
@@ -20,8 +19,7 @@ FULL-MAP has received funding from the European Union’s research and innovatio
 - Programme acronym: HORIZON-CL5-2024-D2-01-05
 
 ## Project coordinator
-Vrije Universiteit Brussel
-Pleinlaan 2
+Vrije Universiteit Brussel  
+Pleinlaan 2  
 1050 Brussel, Belgium  
 [Get in Contact](https://www.full-map.eu/legal/legal-notice)
-
